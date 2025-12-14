@@ -194,7 +194,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ##  Author
 
-**Your Name**
+**Darshith**
 - GitHub: [@DarshithC](https://github.com/DarshtihC)
 - Email: darshithcraj123.gmail.com
 
