@@ -1,10 +1,8 @@
 
 # Stock Broker Client Dashboard
 A real-time stock broker dashboard built with React and Node.js that allows users to subscribe to stock tickers and receive live price updates via WebSocket connections.
-Show Image
-Show Image
-Show Image
-🌟 Features
+
+## Features
 
 User Authentication: Email-based login system
 Real-time Updates: Stock prices update every second using WebSocket (Socket.IO)
@@ -15,19 +13,19 @@ Live Price Changes: Visual indicators for price movements (green/red)
 Asynchronous Updates: No page refresh required
 Responsive Design: Works on desktop and mobile devices
 
-🚀 Technologies Used
-Frontend
+## Technologies Used
+### Frontend
 
-React 18.2.0
-Socket.IO Client
-CSS3 (Gradient designs, animations)
+- React 18.2.0
+- Socket.IO Client
+- CSS3 (Gradient designs, animations)
 
-Backend
+### Backend
 
-Node.js
-Express.js
-Socket.IO
-CORS
+- Node.js
+- Express.js
+- Socket.IO
+- CORS
 
 ##  Prerequisites
 
@@ -41,7 +39,7 @@ Before running this project, make sure you have:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/stock-broker-dashboard.git
+git clone https://github.com/Darshithc/stock-broker-dashboard.git
 cd stock-broker-dashboard
 ```
 
