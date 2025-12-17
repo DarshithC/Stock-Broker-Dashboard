@@ -39,7 +39,7 @@ Before running this project, make sure you have:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Darshithc/stock-broker-dashboard.git
+git clone https://github.com/DarshithC/stock-broker-dashboard.git
 cd stock-broker-dashboard
 ```
 
